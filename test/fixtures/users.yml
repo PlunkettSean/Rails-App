@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  discordId: 1
+  discordTag: MyString
+  joinedDateTime: 2021-01-09 05:14:35
+
+two:
+  discordId: 1
+  discordTag: MyString
+  joinedDateTime: 2021-01-09 05:14:35
